@@ -1,6 +1,6 @@
 # Incubyte_Assessment
 
-# Take sample Output for inputs like inital cordinates :(0,0,0), initial Direction: N, commands (f,r,u,l)
+Sample Ouput for inputs cordinates : (0,0,0), Directin : N, commands :(f,r,u,l)
 Enter the Initial Cordinates
 x : 0
 y : 0
@@ -23,4 +23,4 @@ Enter the command from (f,b,l,r,u,d) , Enter 0 to stop : l
 New Cordinates are : (0 ,1 ,0)
 New Direction is : N
 ---------------------------------------------------------------
-**Enter the command from (f,b,l,r,u,d) , Enter 0 to stop : 0**
+Enter the command from (f,b,l,r,u,d) , Enter 0 to stop : 0
