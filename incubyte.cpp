@@ -79,7 +79,7 @@ int main()
     cout<<"y : ";
     cin>>y;
     cout<<"z : "; cin>>z;
-    // cin>>x>>y>>z;
+  
     cout<<"Enter the initial Direction in capitals like (N,S,E,W) : ";
     cin>>D1;
     // I chose N as default direction for taking initial direction like U or D;
